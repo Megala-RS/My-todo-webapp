@@ -1,5 +1,4 @@
 Finish Python
-Message Netta Kokku
-Hit his motta mandai
 Check checkbox
 Update the code.
+Commit changes
